@@ -1,7 +1,6 @@
 nav#bar ul li{
  list-style-type: none;
  text-decoration: none;
- float: left;
  display: block;
  background-color: silver;
  margin: 0 20px;
