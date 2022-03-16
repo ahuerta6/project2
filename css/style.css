@@ -1,9 +1,21 @@
-nav#bar ul li{
+nav#bar ul {
  list-style-type: none;
- text-decoration: none;
- display: block;
+ margin: 0;
+ padding: 0;
+
+}
+
+nav#bar ul li {
+ float: left;
+ margin: 0 15px;
+}
+
+nav#bar ul li a {
  background-color: silver;
- margin: 0 20px;
- width: 120px;
+ display: block;
+ color: black;
+ text-decoration: none;
  text-align: center;
+ font-weight: bold;
+ width: 70px;
 }
