@@ -37,3 +37,10 @@ body#game {
  background-size: cover;
  margin: 0%;
 }
+
+body#game {
+ background-image: url(https://i.ytimg.com/vi/Cwm3Vu3A4Nk/maxresdefault.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0%;
+}
