@@ -23,3 +23,11 @@ nav#bar ul li a {
 .clear {
  clear:both;
 }
+
+#res body {
+ background-image: url(	https://png.pngtree.com/thumb_back/fh260/back_our/…iness-resume-background-material-image_177423.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0%;
+}
+
