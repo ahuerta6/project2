@@ -24,7 +24,7 @@ nav#bar ul li a {
  clear:both;
 }
 
-#res body {
+.res {
  background-image: url(/media/resume.jpg);
  background-repeat: no-repeat;
  background-size: cover;
