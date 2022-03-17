@@ -1,6 +1,7 @@
 nav#bar ul {
  list-style-type: none;
  padding: 0;
+ margin: 0px;
 }
 
 nav#bar ul li {
