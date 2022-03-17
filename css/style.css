@@ -42,6 +42,5 @@ body#sport {
  background-image: url(https://i.ytimg.com/vi/Cwm3Vu3A4Nk/maxresdefault.jpg);
  background-repeat: no-repeat;
  background-size: cover;
- margin-left: auto;
- margin-right: auto;
+ margin: 0%;
 }
