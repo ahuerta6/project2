@@ -45,12 +45,24 @@ body#sport {
  margin: 0%;
 }
 
-div#center {
+div#centerp2 {
  display: block;
  margin-left: auto;
  margin-right: auto;
  width: 50%;
  font-family: 'Smooch Sans', sans-serif;
+ font-size: 30px;
+ font-weight: bold;
+ text-align: center;
+ color: white;
+}
+
+div#centerp3 {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+ font-family: 'Spartan', sans-serif;
  font-size: 30px;
  font-weight: bold;
  text-align: center;
