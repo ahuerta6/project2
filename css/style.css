@@ -10,7 +10,7 @@ nav#bar ul li {
 }
 
 nav#bar ul li a {
- background-color: lightblue;
+ background-color: rgb(104, 199, 231);
  display: block;
  color: white;
  text-decoration: none;
