@@ -45,6 +45,17 @@ body#sport {
  margin: 0%;
 }
 
+div#centerin {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+ font-family: 'Playfair Display', serif;
+ font-weight: bold;
+ text-align: center;
+ color: black;
+}
+
 div#centerp2 {
  display: block;
  margin-left: auto;
