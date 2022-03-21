@@ -1,3 +1,7 @@
+ul{
+ margin: 0px auto;
+}
+
 nav#bar ul {
  text-align: center;
  display: inline-block;
