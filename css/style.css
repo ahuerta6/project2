@@ -89,7 +89,7 @@ div#centerp2 {
  color: white;
 }
 
-#boxing1 h3 p {
+#boxing1  p {
  box-sizing: content-box;
  top: 15px;
  font-size: 20px;
@@ -102,7 +102,7 @@ div#centerp2 {
  color: white;
 }
 
-#boxing2 h3 p {
+#boxing2 p {
  box-sizing: content-box;
  float: left;
  top: 15px;
