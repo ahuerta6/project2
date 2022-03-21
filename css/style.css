@@ -28,6 +28,7 @@ nav#bar ul li a {
  font-weight: bold;
  font-size: 25px;
  width: 150px;
+ height: 40px;
  z-index: 10;
 }
 
