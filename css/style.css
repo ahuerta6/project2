@@ -8,6 +8,7 @@ nav#bar ul {
  padding: 0;
  margin-left: auto;
  margin-right: auto;
+ overflow: hidden;
 }
 
 nav#bar ul li { 
