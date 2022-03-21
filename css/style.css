@@ -21,6 +21,7 @@ nav#bar ul li a {
  display: block;
  color: white;
  margin: 0px auto;
+ border-radius: 20px;
  text-decoration: none;
  text-align: center;
  font-weight: bold;
@@ -33,7 +34,7 @@ nav#bar ul li a {
 nav#bar ul li a:hover {
  background-color: white;
  color: black;
- border-radius: 15px;
+ border-radius: 20px;
 }
 
 .clear {
@@ -64,6 +65,7 @@ body#sport {
 div#centerin {
  box-sizing: content-box;
  position: relative;
+ border-radius: 10px;
  background-color: lightblue;
  width: 400px;
  height: 100%;
