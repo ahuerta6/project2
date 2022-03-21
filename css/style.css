@@ -141,4 +141,5 @@ div#centerp3 p {
  box-sizing: content-box;
  border: 2px black;
  width: 600px;
+ text-align: center;
 }
