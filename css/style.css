@@ -81,9 +81,20 @@ div#centerp2 {
  color: white;
 }
 
-div#centerp2 p {
+#boxing1 p {
  box-sizing: content-box;
  float: right;
+ width: 300px;
+ height: 200px;
+ font-family: 'Exo 2', sans-serif;
+ font-style: italic;
+ font-weight: bold;
+ color: white;
+}
+
+#boxing2 p {
+ box-sizing: content-box;
+ float: left;
  width: 300px;
  height: 200px;
  font-family: 'Exo 2', sans-serif;
