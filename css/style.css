@@ -127,8 +127,6 @@ div#centerp2 {
 
 div#centerp3 {
  display: block;
- box-sizing: content-box;
- border: 2px black;
  margin-left: auto;
  margin-right: auto;
  width: 50%;
@@ -137,4 +135,9 @@ div#centerp3 {
  font-weight: bold;
  text-align: center;
  color: white;
+}
+
+div#centerp3 p {
+ box-sizing: content-box;
+ border: 2px black;
 }
