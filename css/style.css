@@ -12,7 +12,7 @@ nav#bar ul {
 
 nav#bar ul li { 
  float: left;
- margin: 0 auto;
+ margin: 0 30px;
 }
 
 nav#bar ul li a {
@@ -20,6 +20,7 @@ nav#bar ul li a {
  background-color: rgb(104, 199, 231);
  display: block;
  color: white;
+ margin: 0px auto;
  text-decoration: none;
  text-align: center;
  font-weight: bold;
