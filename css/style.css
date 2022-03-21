@@ -70,6 +70,7 @@ div#centerin {
  background-color: lightblue;
  width: 400px;
  height: 100%;
+ text-align: center;
  height: max-content;
  font-family: 'Playfair Display', serif;
  color: black;
