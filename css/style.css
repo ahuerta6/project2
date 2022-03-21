@@ -55,6 +55,7 @@ div#centerin {
  box-sizing: content-box;
  background-color: lightblue;
  width: 300px;
+ height: 100%;
  border: 10px black;
  font-family: 'Playfair Display', serif;
  color: black;
