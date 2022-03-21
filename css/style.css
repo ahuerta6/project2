@@ -74,19 +74,28 @@ div#centerp2 {
  margin-right: auto;
  width: 50%;
  font-family: 'Exo 2', sans-serif;
- font-size: 30px;
+ font-size: 15px;
  font-style: italic;
  font-weight: bold;
  text-align: center;
  color: white;
 }
 
-#centerp2 p {
+div#centerp2right p {
  box-sizing: content-box;
  float: right;
  width: 50%;
  font-family: 'Exo 2', sans-serif;
- font-size: 30px;
+ font-style: italic;
+ font-weight: bold;
+ color: white;
+}
+
+div#centerp2left p {
+ box-sizing: content-box;
+ float: left;
+ width: 50%;
+ font-family: 'Exo 2', sans-serif;
  font-style: italic;
  font-weight: bold;
  color: white;
