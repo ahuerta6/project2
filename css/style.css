@@ -54,6 +54,7 @@ body#sport {
 div#centerin {
  box-sizing: content-box;
  background-color: white;
+ width: 60px;
  border: 10px black;
  font-family: 'Playfair Display', serif;
  color: black;
