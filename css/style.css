@@ -74,7 +74,6 @@ div#centerp2 {
  margin-right: auto;
  width: 50%;
  font-family: 'Exo 2', sans-serif;
- font-size: 15px;
  font-style: italic;
  font-weight: bold;
  text-align: center;
@@ -83,6 +82,7 @@ div#centerp2 {
 
 #boxing1 p {
  box-sizing: content-box;
+ font-size: 25px;
  float: right;
  width: 300px;
  height: 200px;
@@ -95,6 +95,7 @@ div#centerp2 {
 #boxing2 p {
  box-sizing: content-box;
  float: left;
+ font-size: 25px;
  width: 300px;
  height: 200px;
  font-family: 'Exo 2', sans-serif;
