@@ -2,13 +2,13 @@ nav#bar ul {
  text-align: center;
  display: inline-block;
  list-style-type: none;
- width: 800px;
+ width: 520px;
  padding: 0;
- margin-left: auto;
- margin-right: auto;
+ margin: 0px auto;
+ overflow: hidden;
 }
 
-nav#bar ul li {
+nav#bar ul li { 
  float: left;
  margin: 0 30px;
 }
