@@ -6,8 +6,8 @@ nav#bar ul {
  border: 2px solid black;
  width: 650px;
  padding: 0;
- margin: 0px auto;
- overflow: hidden;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 nav#bar ul li { 
