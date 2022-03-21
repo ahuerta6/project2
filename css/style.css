@@ -83,7 +83,7 @@ div#centerp2 {
 
 div#centerp2 p {
  box-sizing: content-box;
- float: left;
+ float: right;
  width: 50%;
  font-family: 'Exo 2', sans-serif;
  font-size: 30px;
