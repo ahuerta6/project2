@@ -53,7 +53,7 @@ body#sport {
 
 div#centerin {
  box-sizing: content-box;
- background-color: white;
+ background-color: cyan;
  width: 300px;
  border: 10px black;
  font-family: 'Playfair Display', serif;
