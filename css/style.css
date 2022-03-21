@@ -21,6 +21,7 @@ nav#bar ul li a {
  display: block;
  color: white;
  margin: 0px auto;
+ border-radius: 5px;
  text-decoration: none;
  text-align: center;
  font-weight: bold;
