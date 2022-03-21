@@ -59,7 +59,8 @@ div#centerin {
  border: 10px black;
  font-family: 'Playfair Display', serif;
  color: black;
- margin: 50px;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 div#centerin h2{
@@ -119,9 +120,4 @@ div#centerp3 {
  font-weight: bold;
  text-align: center;
  color: white;
-}
-
-#boxing {
- box-sizing: content-box;
- float: left;
 }
