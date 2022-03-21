@@ -2,7 +2,6 @@ nav#bar ul {
  list-style-type: none;
  padding: 0;
  margin: 0px;
- z-index: 10;
 }
 
 nav#bar ul li {
@@ -20,6 +19,7 @@ nav#bar ul li a {
  font-weight: bold;
  font-size: 25px;
  width: 150px;
+ z-index: 10;
 }
 
 nav#bar ul li a:hover {
@@ -33,7 +33,7 @@ nav#bar ul li a:hover {
 }
 
 body#res {
- z-index: 12;
+ z-index: 8;
  background-image: url(https://dpuk71x9wlmkf.cloudfront.net/assets/2019/08/02193720/B7023-How-to-Build-my-Resume-Social.png);
  background-repeat: no-repeat;
  background-size: cover;
