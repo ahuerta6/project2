@@ -53,8 +53,19 @@ body#sport {
 
 div#centerin {
  font-family: 'Playfair Display', serif;
- font-weight: bold;
  color: black;
+}
+
+div#centerin h2{
+ font-family: 'Playfair Display', serif;
+ color: black;
+ font-weight: bolder;
+}
+
+div#centerin h3{
+ font-family: 'Playfair Display', serif;
+ color: black;
+ font-weight: 600;
 }
 
 div#centerp2 {
