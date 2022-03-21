@@ -84,7 +84,8 @@ div#centerp2 {
 div#centerp2right p {
  box-sizing: content-box;
  float: right;
- width: 50%;
+ width: 300px;
+ height: 200px;
  font-family: 'Exo 2', sans-serif;
  font-style: italic;
  font-weight: bold;
@@ -94,7 +95,8 @@ div#centerp2right p {
 div#centerp2left p {
  box-sizing: content-box;
  float: left;
- width: 50%;
+ width: 300px;
+ height: 200px;
  font-family: 'Exo 2', sans-serif;
  font-style: italic;
  font-weight: bold;
