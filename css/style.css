@@ -89,6 +89,7 @@ div#centerp2 {
 #boxing1 p {
  box-sizing: content-box;
  font-size: 20px;
+ margin-top: 30px;
  width: 300px;
  float: right;
  font-family: 'Exo 2', sans-serif;
