@@ -92,3 +92,8 @@ div#centerp3 {
  text-align: center;
  color: white;
 }
+
+#boxing {
+ box-sizing: content-box;
+ float: left;
+}
