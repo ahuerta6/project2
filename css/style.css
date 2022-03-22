@@ -127,9 +127,7 @@ div#centerin {
 
 #centerp3 {
  display: block;
- margin-left: auto;
- margin-right: auto;
- width: 900px;
+ float:left;
  font-family: 'Spartan', sans-serif;
  font-size: 30px;
  font-weight: bold;
