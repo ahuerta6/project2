@@ -125,7 +125,7 @@ div#centerin {
  color: white;
 }
 
-.centerp3 {
+#centerp3 {
  display: block;
  margin-left: auto;
  margin-right: auto;
@@ -137,7 +137,7 @@ div#centerin {
  color: white;
 }
 
-.centerp3 p {
+#centerp3 p {
  box-sizing: content-box;
  border: 2px black;
  width: 600px;
