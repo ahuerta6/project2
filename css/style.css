@@ -142,5 +142,8 @@ div#centerp3 p {
  border: 2px black;
  width: 600px;
  text-align: center;
- margin: 30px auto;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 20px;
+ margin-bottom: 35px;
 }
