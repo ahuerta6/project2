@@ -76,19 +76,19 @@ div#centerin {
  margin-right: auto;
 }
 
-div#centerin h2{
+#centerin h2{
  font-family: 'Playfair Display', serif;
  color: black;
  font-weight: bolder;
 }
 
-div#centerin h3{
+#centerin h3{
  font-family: 'Playfair Display', serif;
  color: black;
  font-weight: 600;
 }
 
-div#centerp2 {
+#centerp2 {
  display: block;
  margin-left: auto;
  margin-right: auto;
@@ -125,7 +125,7 @@ div#centerp2 {
  color: white;
 }
 
-div#centerp3 {
+#centerp3 {
  display: block;
  margin-left: auto;
  margin-right: auto;
@@ -137,7 +137,7 @@ div#centerp3 {
  color: white;
 }
 
-div#centerp3 p {
+#centerp3 p {
  box-sizing: content-box;
  border: 2px black;
  width: 600px;
