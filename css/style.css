@@ -102,35 +102,41 @@ nav#bar ul li a:hover {
 
 #valorant {
  box-sizing: content-box;
- top: auto;
  font-size: 20px;
  margin: 0 0 0 5%;
  width: 25%;
  float: float;
  font-weight: bold;
  color: white;
+ font-family: 'Exo 2', sans-serif;
+ font-style: italic;
+ font-weight: bold;
 }
 
 #apex {
  box-sizing: content-box;
  float: left;
- top: auto;
  width: 25%;
  margin: 0 5%;
  font-size: 20px;
  font-weight: bold;
  color: white;
+ font-family: 'Exo 2', sans-serif;
+ font-style: italic;
+ font-weight: bold;
 }
 
 #minecraft {
  box-sizing: content-box;
- top: auto;
  font-size: 20px;
  margin: 0 5% 0 0;
  width: 25%;
  float: float;
  font-weight: bold;
  color: white;
+ font-family: 'Exo 2', sans-serif;
+ font-style: italic;
+ font-weight: bold;
 }
 
 /* page 3 css */
