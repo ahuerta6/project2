@@ -41,21 +41,21 @@ nav#bar ul li a:hover {
  clear:both;
 }
 
-body#res {
+#res {
  z-index: 8;
  background-image: url(https://dpuk71x9wlmkf.cloudfront.net/assets/2019/08/02193720/B7023-How-to-Build-my-Resume-Social.png);
  background-repeat: no-repeat;
  background-size: cover;
 }
 
-body#game {
+#game {
  background-image: url(https://papers.co/wallpaper/papers.co-so01-purple-pink-fire-blur-gradation-25-wallpaper.jpg);
  background-repeat: no-repeat;
  background-size: cover;
  margin: 0%;
 }
 
-body#sport {
+#sport {
  background-image: url(https://cutewallpaper.org/21/color-fade-background/Color-Fade-iPhone-6-Wallpapers-Top-Free-Color-Fade-iPhone-.jpg);
  background-repeat: no-repeat;
  background-size: cover;
@@ -125,8 +125,8 @@ div#centerin {
  color: white;
 }
 
-.wrap {
- width: 900px;
+.wrap body{
+ width: 1400px;
  margin: 30px auto;
 }
 #centerp3 {
