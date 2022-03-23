@@ -143,9 +143,6 @@ div#centerin {
  height: 425px;
  font-family: 'Spartan', sans-serif;
  font-weight: bold;
- text-align: center;
- margin-left: auto;
- margin-right: auto;
  margin-top: 20px;
  margin-bottom: 50px;
 }
@@ -153,7 +150,6 @@ div#centerin {
 #wrap {
  position: absolute;
  width: 960px;
- height: auto;
  margin-left: auto;
  margin-right: auto;
  padding: 0%;
