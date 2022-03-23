@@ -101,6 +101,7 @@ nav#bar ul li a:hover {
 }
 
 #valorant {
+ text-align: center;
  box-sizing: content-box;
  font-size: 20px;
  margin: 0 0 0 5%;
@@ -114,6 +115,7 @@ nav#bar ul li a:hover {
 }
 
 #apex {
+ text-align: center;
  box-sizing: content-box;
  float: left;
  width: 25%;
@@ -127,6 +129,7 @@ nav#bar ul li a:hover {
 }
 
 #minecraft {
+ text-align: center;
  box-sizing: content-box;
  font-size: 20px;
  margin: 0 5% 0 0;
