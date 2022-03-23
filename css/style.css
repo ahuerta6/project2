@@ -137,7 +137,6 @@ div#centerin {
 }
 
 #textalign {
- position:fixed;
  box-sizing: content-box;
  border: 2px solid black;
  width: 500px;
