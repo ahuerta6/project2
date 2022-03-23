@@ -100,6 +100,11 @@ nav#bar ul li a:hover {
  color: white;
 }
 
+#wrap2_2 {
+ margin: 0 auto;
+ width: 960px;
+}
+
 #valorant {
  text-align: center;
  box-sizing: content-box;
@@ -178,4 +183,5 @@ nav#bar ul li a:hover {
  margin-right: auto;
  font-family: 'Spartan', sans-serif;
  font-weight: bold;
+ color: white;
 }
