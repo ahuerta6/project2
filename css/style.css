@@ -106,10 +106,9 @@ nav#bar ul li a:hover {
  font-size: 20px;
  margin-top: 30px;
  width: 50%;
- float: right;
+ float: float;
  font-weight: bold;
  color: white;
- clear: both;
 }
 
 #boxing2 {
@@ -120,7 +119,6 @@ nav#bar ul li a:hover {
  font-size: 20px;
  font-weight: bold;
  color: white;
- clear: both;
 }
 
 /* page 3 css */
