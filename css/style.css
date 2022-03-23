@@ -129,7 +129,7 @@ div#centerin {
 #wrap body{
  width: 1400px;
  margin: 30px auto;
- border: 2px black;
+ border: 2px solid black;
 }
 #centerp3 {
  display: block;
