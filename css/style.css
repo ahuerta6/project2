@@ -1,3 +1,5 @@
+/*navigation bar */
+
 nav#bar ul {
  text-align: center;
  display: inline-block;
@@ -40,6 +42,8 @@ nav#bar ul li a:hover {
  clear:both;
 }
 
+/* index css */
+
 #res {
  z-index: 8;
  background-image: url(https://dpuk71x9wlmkf.cloudfront.net/assets/2019/08/02193720/B7023-How-to-Build-my-Resume-Social.png);
@@ -47,21 +51,7 @@ nav#bar ul li a:hover {
  background-size: cover;
 }
 
-#game {
- background-image: url(https://papers.co/wallpaper/papers.co-so01-purple-pink-fire-blur-gradation-25-wallpaper.jpg);
- background-repeat: no-repeat;
- background-size: cover;
- margin: 0%;
-}
-
-#sport {
- background-image: url(https://cutewallpaper.org/21/color-fade-background/Color-Fade-iPhone-6-Wallpapers-Top-Free-Color-Fade-iPhone-.jpg);
- background-repeat: no-repeat;
- background-size: cover;
- margin: 0%;
-}
-
-div#centerin {
+#centerin {
  box-sizing: content-box;
  position: relative;
  border-radius: 10px;
@@ -88,11 +78,21 @@ div#centerin {
  font-weight: 600;
 }
 
-#centerp2 {
+/* page 2 css */
+
+#game {
+ background-image: url(https://papers.co/wallpaper/papers.co-so01-purple-pink-fire-blur-gradation-25-wallpaper.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0%;
+}
+
+#wrap2 {
  display: block;
  margin-left: auto;
  margin-right: auto;
- width: 700px;
+ width: 960px;
+ border: 2px solid black;
  font-family: 'Exo 2', sans-serif;
  font-style: italic;
  font-weight: bold;
@@ -125,14 +125,19 @@ div#centerin {
  color: white;
 }
 
-#centerp3 {
- display: block;
- float:left;
- font-family: 'Spartan', sans-serif;
- font-size: 30px;
- font-weight: bold;
- text-align: center;
- color: white;
+/* page 3 css */
+
+#sport {
+ background-image: url(https://cutewallpaper.org/21/color-fade-background/Color-Fade-iPhone-6-Wallpapers-Top-Free-Color-Fade-iPhone-.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0%;
+}
+
+#wrap3 {
+ width: 960px;
+ margin: 0 auto;
+ border: 2px solid black;
 }
 
 #textalign {
@@ -148,12 +153,6 @@ div#centerin {
  margin-top: 20px;
  margin-bottom: 50px;
  background-color: white;
-}
-
-#wrap {
- width: 960px;
- margin: 0 auto;
- border: 2px solid black;
 }
 
 #title {
