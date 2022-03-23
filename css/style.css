@@ -100,7 +100,7 @@ nav#bar ul li a:hover {
  color: white;
 }
 
-#boxing1 {
+#valorant {
  box-sizing: content-box;
  top: auto;
  font-size: 20px;
@@ -111,12 +111,23 @@ nav#bar ul li a:hover {
  color: white;
 }
 
-#boxing2 {
+#apex {
  box-sizing: content-box;
  float: left;
  top: auto;
  width: 15%;
  font-size: 20px;
+ font-weight: bold;
+ color: white;
+}
+
+#minecraft {
+ box-sizing: content-box;
+ top: auto;
+ font-size: 20px;
+ margin-top: 30px;
+ width: 15%;
+ float: float;
  font-weight: bold;
  color: white;
 }
