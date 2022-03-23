@@ -100,29 +100,27 @@ nav#bar ul li a:hover {
  color: white;
 }
 
-#boxing1  p {
+#boxing1 {
  box-sizing: content-box;
  top: auto;
  font-size: 20px;
  margin-top: 30px;
- width: 300px;
+ width: 50%;
  float: right;
- font-family: 'Exo 2', sans-serif;
- font-style: italic;
  font-weight: bold;
  color: white;
+ clear: both;
 }
 
-#boxing2 p {
+#boxing2 {
  box-sizing: content-box;
  float: left;
  top: auto;
- width: 300px;
+ width: 50%;
  font-size: 20px;
- font-family: 'Exo 2', sans-serif;
- font-style: italic;
  font-weight: bold;
  color: white;
+ clear: both;
 }
 
 /* page 3 css */
