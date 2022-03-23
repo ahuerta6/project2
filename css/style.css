@@ -151,10 +151,8 @@ div#centerin {
 }
 
 #wrap {
- position: absolute;
  width: 960px;
  margin: 0 auto;
- padding: 0%;
  border: 2px solid black;
 }
 
