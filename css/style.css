@@ -153,6 +153,7 @@ div#centerin {
 #wrap {
  position: absolute;
  width: 960px;
+ height: auto;
  margin-left: auto;
  margin-right: auto;
  padding: 0%;
