@@ -105,7 +105,6 @@ div#centerin {
  top: auto;
  font-size: 20px;
  margin-top: 30px;
- width: 300px;
  float: right;
  font-family: 'Exo 2', sans-serif;
  font-style: italic;
@@ -125,7 +124,7 @@ div#centerin {
  color: white;
 }
 
-.wrap body{
+#wrap body{
  width: 1400px;
  margin: 30px auto;
  border: 2px black;
