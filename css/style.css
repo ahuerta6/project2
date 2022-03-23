@@ -141,9 +141,16 @@ div#centerin {
  border: 2px solid black;
  width: 500px;
  height: 400px;
+ font-family: 'Spartan', sans-serif;
  text-align: center;
  margin-left: auto;
  margin-right: auto;
  margin-top: 20px;
  margin-bottom: 50px;
+}
+
+#title {
+ text-align: center;
+ margin-left: auto;
+ margin-right: auto;
 }
