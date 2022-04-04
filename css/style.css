@@ -14,7 +14,7 @@ nav#bar ul {
  border: 2px solid black;
  width: 650px;
  padding: 0;
- margin-left: auto;
+ margin-left: 30px;
  margin-right: auto;
  overflow: hidden;
 }
