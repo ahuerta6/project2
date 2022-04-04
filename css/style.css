@@ -108,6 +108,7 @@ nav#bar ul li a:hover {
  font-family: 'Exo 2', sans-serif;
  font-style: italic;
  font-weight: bold;
+ background-color: darkblue;
 }
 
 #apex {
@@ -122,6 +123,7 @@ nav#bar ul li a:hover {
  font-family: 'Exo 2', sans-serif;
  font-style: italic;
  font-weight: bold;
+ background-color: red;
 }
 
 #minecraft {
@@ -136,6 +138,7 @@ nav#bar ul li a:hover {
  font-family: 'Exo 2', sans-serif;
  font-style: italic;
  font-weight: bold;
+ background-color: green;
 }
 
 /* page 3 css */
